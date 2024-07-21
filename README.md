@@ -13,3 +13,4 @@ The diagrammartic representaion of circular queue is fiven below:
 ![Screenshot of Circular queue](circular_queue.png)
 <br>
 ## Output
+![SCreenshot of representaion](Screenshot.png)
