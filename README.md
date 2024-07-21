@@ -12,5 +12,12 @@ The diagrammartic representaion of circular queue is fiven below:
 <br>
 ![Screenshot of Circular queue](circular_queue.png)
 <br>
+## Explaination of the Output
+- The function```enqueue()``` in the class Queue is used to add an element in the queue.
+- The function ```dequeue()``` in the class Queue is used to remove an Element from the queue.
+- The function ```disp()``` in the class Queue is used to print all the elements in the queue.
+- We **enqueue** the elements **4**, **8** and **3** into the queue and then **display** the queue.
+- We **dequeue** the element **4** and then **display** the dequeued (deleted) element.
+- We **display** the stack.
 ## Output
-![SCreenshot of representaion](Screenshot.png)
+![SCreenshot of output](Screenshot.png)
