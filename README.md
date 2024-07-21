@@ -9,8 +9,7 @@ The diagrammatic representation of the Linear queue is given below:
 <br>
 The diagrammartic representaion of circular queue is fiven below:
 <br>
-<![Screenshot of Circular queue](circular_queue.png)
-  width="96"
-  height="96"
-  class="block mx-auto" />
 <br>
+![Screenshot of Circular queue](circular_queue.png)
+<br>
+## Output
