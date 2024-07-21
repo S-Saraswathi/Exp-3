@@ -9,5 +9,5 @@ The diagrammatic representation of the Linear queue is given below:
 <br>
 The diagrammartic representaion of circular queue is fiven below:
 <br>
-![Screenshot of Circular queue](circular_queue.png)
+                ![Screenshot of Circular queue](circular_queue.png)
 <br>
