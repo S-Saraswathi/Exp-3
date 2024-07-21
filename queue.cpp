@@ -47,7 +47,7 @@ void Queue::disp(){
     else{
         int i=front;
         while(i!=(rear+1)){
-            cout<<ar[i];
+            cout<<ar[i]<<"  ";
             i++;
         }
     }
